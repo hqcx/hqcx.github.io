@@ -26,5 +26,5 @@ titles:
 key: page-about
 ---
 
-![about](){:.shadow.rounded width="200"}
+![about](/assets/images/travel/1.jpg){:.shadow.rounded width="200"}
 ### Hello blog!
